@@ -1,7 +1,7 @@
 package kamis199735.springframework.kamispetclinic.model;
 
 public class PetType extends BaseEntity {
-
+    //komentarz
 
     private String name;
 
