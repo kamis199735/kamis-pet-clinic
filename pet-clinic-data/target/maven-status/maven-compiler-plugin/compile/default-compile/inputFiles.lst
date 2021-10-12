@@ -1,9 +1,14 @@
 C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\services\OwnerService.java
 C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\model\BaseEntity.java
-C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\model\Vet.java
+C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\services\map\AbstractMapService.java
+C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\services\map\VetServiceMap.java
 C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\services\PetService.java
+C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\services\CrudService.java
 C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\model\Owner.java
+C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\services\map\PetServiceMap.java
 C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\services\VetService.java
 C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\model\Person.java
-C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\model\Pet.java
 C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\model\PetType.java
+C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\model\Vet.java
+C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\services\map\OwnerServiceMap.java
+C:\Users\kamil.stefaniak\IdeaProjects\kamis-pet-clinic\kamis-pet-clinic\pet-clinic-data\src\main\java\kamis199735\springframework\kamispetclinic\model\Pet.java
