@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: kamis199735.springframework.kamispetclinic.KamisPetClinicApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.105 s - in kamis199735.springframework.kamispetclinic.KamisPetClinicApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.784 s - in kamis199735.springframework.kamispetclinic.KamisPetClinicApplicationTests
