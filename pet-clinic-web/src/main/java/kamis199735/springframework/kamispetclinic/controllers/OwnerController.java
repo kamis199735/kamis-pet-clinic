@@ -41,7 +41,7 @@ public class OwnerController {
 
     @RequestMapping("/find")
     public String findOwners(Model model){
-        model.addAttribute("owner", Owner.builder());
+        model.addAttribute("owner", Owner.builder().build());
         return "owners/findOwners";
     }
 
@@ -56,7 +56,7 @@ public class OwnerController {
     public String processFindForm(Owner owner, BindingResult result, Model model){
 
         if(owner.getLastName() == null){
-           owner.setLastName("");
+            owner.setLastName("");
         }
 
         List<Owner> results = ownerService.findAllByLastNameLike(owner.getLastName());
@@ -66,7 +66,7 @@ public class OwnerController {
             return "owners/findOwners";
         } else if (results.size() == 1){
             owner = results.iterator().next();
-            return "redirect:/owners" + results.get(0);
+            return "redirect:/owners/" + results.get(0).getId();
         } else {
             model.addAttribute("selections", results);
             return "owners/ownersList";
