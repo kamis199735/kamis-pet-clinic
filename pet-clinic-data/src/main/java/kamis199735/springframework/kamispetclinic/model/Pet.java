@@ -38,6 +38,6 @@ public class Pet extends BaseEntity {
     private String name;
 
     @OneToMany(cascade = CascadeType.ALL,mappedBy = "pet")
-    private Set<Visit> visit;
+    private Set<Visit> visits;
 
 }
