@@ -23,6 +23,7 @@ public class PetTypeSDJavaService implements PetTypeService {
 
 	@Override
 	public Set<PetType> findAll() {
+
 		return StreamSupport.stream(petTypeRepository.findAll().spliterator(), false).collect(Collectors.toSet());
 	}
 
