@@ -4,7 +4,11 @@
 /build/www/**
 /src/test/javascript/coverage/
 /src/test/javascript/PhantomJS*/
-
+/pet-clinic-web/target/
+/pet-clinic-data/target/
+/pet-clinic-web/target/surefire-reports
+/pet-clinic-data/target/surefire-reports
+/target/*
 ######################
 # Node
 ######################
